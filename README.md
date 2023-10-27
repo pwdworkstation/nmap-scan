@@ -66,22 +66,22 @@ python3 nmap-scan.py help
 
 ## Screenshots
 Here's an example of an IP with the command -A -sS saved in the -oN, -oX, -oA, -oG formats.
-![nmap-pwdworkstation-IP_01](https://github.com/pwdworkstation/nmap-scan/assets/138977500/cb3b0f03-f550-4157-b0de-6edbf7a72831)
+![nmap-pwdworkstation-IP_01](https://github.com/pwdworkstation/nmap-scan/assets/138977500/c293ee49-8bd1-450f-9d4e-d063ba8e3a47)
 ## 
-![nmap-pwdworkstation-IP_02](https://github.com/pwdworkstation/nmap-scan/assets/138977500/0724b07c-2801-440c-9dbf-a4bbe363b83d)
+![nmap-pwdworkstation-IP_02](https://github.com/pwdworkstation/nmap-scan/assets/138977500/a3700295-f66b-468d-8d72-77c5387c9609)
 ## 
-![nmap-pwdworkstation-IP_03](https://github.com/pwdworkstation/nmap-scan/assets/138977500/caaa0ca3-e32f-40b2-b583-045577f82b9f)
+![nmap-pwdworkstation-IP_03](https://github.com/pwdworkstation/nmap-scan/assets/138977500/ce200c07-2a89-4b82-b8e7-d4de9f7db3d7)
 ##
 Here's an example of an IP range, using the command -A -sS, saved in the -oG format.
-![nmap-pwdworkstation-IP-range_01](https://github.com/pwdworkstation/nmap-scan/assets/138977500/a7b67645-1ded-43db-a781-367314c97d85)
+![nmap-pwdworkstation-IP-range_01](https://github.com/pwdworkstation/nmap-scan/assets/138977500/6fc169fb-e4ae-467b-8567-4a8e19863c40)
 ## 
-![nmap-pwdworkstation-IP-range_02](https://github.com/pwdworkstation/nmap-scan/assets/138977500/ff2f110d-cd41-41ad-a20b-6bcba30a1008)
+![nmap-pwdworkstation-IP-range_02](https://github.com/pwdworkstation/nmap-scan/assets/138977500/592907b1-436b-46b1-91a3-6266e0723fa7)
 ## 
-![nmap-pwdworkstation-IP-range_03](https://github.com/pwdworkstation/nmap-scan/assets/138977500/378b7c18-eb77-4d27-865e-ec09dc8f7a7a)
+![nmap-pwdworkstation-IP-range_03](https://github.com/pwdworkstation/nmap-scan/assets/138977500/7b18479b-90fa-4ee2-9880-06e3089a345d)
 ## 
-![nmap-pwdworkstation-8](https://github.com/pwdworkstation/nmap-scan/assets/138977500/ce722bba-2c6a-45d0-8e5f-4795bbcdc3f8)
+![nmap-pwdworkstation-8](https://github.com/pwdworkstation/nmap-scan/assets/138977500/e89e718b-5896-4c35-8379-526771dff73d)
 ## 
-![nmap-pwdworkstation-9](https://github.com/pwdworkstation/nmap-scan/assets/138977500/44e230e6-6c3f-43fd-8b2b-7bdaf6b545d4)
+![nmap-pwdworkstation-9](https://github.com/pwdworkstation/nmap-scan/assets/138977500/08af06cc-7797-4d13-ad56-f37b5df639d1)
 
 ## Example
 
