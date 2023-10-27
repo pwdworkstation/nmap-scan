@@ -1,3 +1,5 @@
+![nmap-script_pwdworkstation_vectorized](https://github.com/pwdworkstation/nmap-scan/assets/138977500/0d94b0bd-d9db-46fe-baa9-a1f73dcbfdbc)
+
 ## Overview
 
 This script is designed to facilitate port scanning using the Nmap command-line tool. It provides an interactive interface for users to input target IP addresses or domains and additional Nmap options. The script offers color-coded output for easy interpretation of results and provides the option to save the scan report in various formats.
