@@ -1,4 +1,4 @@
-![nmap-script_pwdworkstation_vectorized](https://github.com/pwdworkstation/nmap-scan/assets/138977500/0d94b0bd-d9db-46fe-baa9-a1f73dcbfdbc)
+![nmap-script_pwdworkstation_vectorized](https://github.com/pwdworkstation/nmap-scan/assets/138977500/128048d9-6c85-4edc-8da6-423dbb5e2081)
 
 ## Overview
 [![phython](https://github.com/pwdworkstation/nmap-scan/assets/138977500/92554906-c762-486b-9304-fefd0794dfec)](https://www.python.org/) [![parrot-os](https://github.com/pwdworkstation/nmap-scan/assets/138977500/f697d833-0f05-4b0b-8c82-5af94e36d276)](https://www.parrotsec.org/)
