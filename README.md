@@ -1,6 +1,9 @@
 ![nmap-script_pwdworkstation_vectorized](https://github.com/pwdworkstation/nmap-scan/assets/138977500/0d94b0bd-d9db-46fe-baa9-a1f73dcbfdbc)
 
 ## Overview
+![phython](https://github.com/pwdworkstation/nmap-scan/assets/138977500/92554906-c762-486b-9304-fefd0794dfec) ![parrot-os](https://github.com/pwdworkstation/nmap-scan/assets/138977500/f697d833-0f05-4b0b-8c82-5af94e36d276)
+
+
 
 This script is designed to facilitate port scanning using the Nmap command-line tool. It provides an interactive interface for users to input target IP addresses or domains and additional Nmap options. The script offers color-coded output for easy interpretation of results and provides the option to save the scan report in various formats.
 It's simply provides a set of basic instructions to initiate a scan, with credit due to Nmap for its comprehensive scanning capabilities and functionalities.
@@ -62,6 +65,26 @@ The script supports the following additional option:
 ```python
 python3 nmap-scan.py help 
 ```
+
+## Screenshots
+Here's an example of an IP with the command -A -sS saved in the -oN, -oX, -oA, -oG formats.
+![nmap-pwdworkstation-IP_01](https://github.com/pwdworkstation/nmap-scan/assets/138977500/cb3b0f03-f550-4157-b0de-6edbf7a72831)
+## 
+![nmap-pwdworkstation-IP_02](https://github.com/pwdworkstation/nmap-scan/assets/138977500/0724b07c-2801-440c-9dbf-a4bbe363b83d)
+## 
+![nmap-pwdworkstation-IP_03](https://github.com/pwdworkstation/nmap-scan/assets/138977500/caaa0ca3-e32f-40b2-b583-045577f82b9f)
+##
+Here's an example of an IP range, using the command -A -sS, saved in the -oG format.
+![nmap-pwdworkstation-IP-range_01](https://github.com/pwdworkstation/nmap-scan/assets/138977500/a7b67645-1ded-43db-a781-367314c97d85)
+## 
+![nmap-pwdworkstation-IP-range_02](https://github.com/pwdworkstation/nmap-scan/assets/138977500/ff2f110d-cd41-41ad-a20b-6bcba30a1008)
+## 
+![nmap-pwdworkstation-IP-range_03](https://github.com/pwdworkstation/nmap-scan/assets/138977500/378b7c18-eb77-4d27-865e-ec09dc8f7a7a)
+## 
+![nmap-pwdworkstation-8](https://github.com/pwdworkstation/nmap-scan/assets/138977500/ce722bba-2c6a-45d0-8e5f-4795bbcdc3f8)
+## 
+![nmap-pwdworkstation-9](https://github.com/pwdworkstation/nmap-scan/assets/138977500/44e230e6-6c3f-43fd-8b2b-7bdaf6b545d4)
+
 ## Example
 
 ### Example 1: Custom Scan with Additional Options
