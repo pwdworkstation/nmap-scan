@@ -1,7 +1,7 @@
 ![nmap-script_pwdworkstation_vectorized](https://github.com/pwdworkstation/nmap-scan/assets/138977500/128048d9-6c85-4edc-8da6-423dbb5e2081)
 
 ## Overview
-[![Python Version](https://img.shields.io/badge/python-3.9.2-blue.svg)](https://www.python.org/downloads/release/python-390/) [![Developed in Parrot Security](https://img.shields.io/badge/Developed%20in-Parrot%20Security-23B5E8.svg)](https://www.parrotsec.org/) ![Nmap Version](https://img.shields.io/badge/Nmap-7.93-orange.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Maintained: Yes](https://img.shields.io/badge/Maintained-yes-brightgreen.svg)](https://github.com/tu-usuario/tu-repositorio) ![Last Update: October 2023](https://img.shields.io/badge/Last_Update-October_2023-purple.svg)
+[![Python Version](https://img.shields.io/badge/python-3.9.2-blue.svg)](https://www.python.org/downloads/release/python-390/) [![Developed in Parrot Security](https://img.shields.io/badge/Developed%20in-Parrot%20Security-23B5E8.svg)](https://www.parrotsec.org/) ![Nmap Version](https://img.shields.io/badge/Nmap-7.93-orange.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Last Update: October 2023](https://img.shields.io/badge/Last_Update-October_2023-purple.svg)
 
 
 
