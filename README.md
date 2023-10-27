@@ -1,9 +1,7 @@
 ![nmap-script_pwdworkstation_vectorized](https://github.com/pwdworkstation/nmap-scan/assets/138977500/0d94b0bd-d9db-46fe-baa9-a1f73dcbfdbc)
 
 ## Overview
-![phython](https://github.com/pwdworkstation/nmap-scan/assets/138977500/92554906-c762-486b-9304-fefd0794dfec) ![parrot-os](https://github.com/pwdworkstation/nmap-scan/assets/138977500/f697d833-0f05-4b0b-8c82-5af94e36d276)
-
-
+[![phython](https://github.com/pwdworkstation/nmap-scan/assets/138977500/92554906-c762-486b-9304-fefd0794dfec)](https://www.python.org/) [![parrot-os](https://github.com/pwdworkstation/nmap-scan/assets/138977500/f697d833-0f05-4b0b-8c82-5af94e36d276)](https://www.parrotsec.org/)
 
 This script is designed to facilitate port scanning using the Nmap command-line tool. It provides an interactive interface for users to input target IP addresses or domains and additional Nmap options. The script offers color-coded output for easy interpretation of results and provides the option to save the scan report in various formats.
 It's simply provides a set of basic instructions to initiate a scan, with credit due to Nmap for its comprehensive scanning capabilities and functionalities.
