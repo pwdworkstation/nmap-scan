@@ -72,7 +72,7 @@ Here's an example of an IP with the command -A -sS saved in the -oN, -oX, -oA, -
 ## 
 ![nmap-pwdworkstation-IP_02](https://github.com/pwdworkstation/nmap-scan/assets/138977500/a3700295-f66b-468d-8d72-77c5387c9609)
 ## 
-![nmap-pwdworkstation-IP_03](https://github.com/pwdworkstation/nmap-scan/assets/138977500/ce200c07-2a89-4b82-b8e7-d4de9f7db3d7)
+![nmap-pwdworkstation-IP_03](https://github.com/pwdworkstation/nmap-scan/assets/138977500/5ca9e391-5c1b-4eb4-81f0-7d9966a2c6f0)
 ##
 Here's an example of an IP range, using the command -A -sS, saved in the -oG format.
 ![nmap-pwdworkstation-IP-range_01](https://github.com/pwdworkstation/nmap-scan/assets/138977500/6fc169fb-e4ae-467b-8567-4a8e19863c40)
