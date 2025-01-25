@@ -162,8 +162,8 @@ We express our gratitude to the developers of the Nmap tool and the Python commu
 
 ## About this script
 
-This simple script was created by me, an enthusiast of technology and cybersecurity. While I have a keen interest in the world of programming, this project is an exercise to enhance my skills in Python and to explore the field of pentesting in a basic capacity.
+About this script
 
-As a beginner in the realm of programming and cybersecurity, my aim with this script is not to establish myself as an expert in the field but rather to provide a simple tool that may be helpful for those also embarking on their journey in this exciting domain. I welcome any feedback, advice, or contribution that the community may offer to improve this simple project and my skills at large.
+This is a simple script I made to quickly experiment with Nmap. It’s not a complex tool, just a basic way to play around with it and see what it can do. If you're looking for something quick and easy to use, this might be helpful.
 
-If you wish to connect or share any ideas related to this project, feel free to reach out to me through my GitHub profile.
+Feel free to try it out, and if you have any feedback or ideas to improve it, I’d be happy to hear from you.
